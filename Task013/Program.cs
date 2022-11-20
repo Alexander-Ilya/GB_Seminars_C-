@@ -21,9 +21,6 @@ else
 Console.WriteLine($"В числе {number} меньше трёх цифр");
 }
 
-
-
-
 int AmountDigitInNumber(int num)
 {
     int res = 1;

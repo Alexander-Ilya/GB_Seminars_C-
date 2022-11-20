@@ -10,9 +10,6 @@ if (AmountDigitInNumber(number) == 3)
     Console.WriteLine(digital);
 }
 
-
-
-
 int AmountDigitInNumber(int num)
 {
     int res = 1;
